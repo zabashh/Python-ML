@@ -1,1 +1,1 @@
-[Open pyml.ipynb in nbviewer](https://nbviewer.jupyter.org/github/zabashh/Python-ML/blob/main/pyml.ipynb)
+[Open python.html](https://zabashh.github.io/Python-ML/python.html)
